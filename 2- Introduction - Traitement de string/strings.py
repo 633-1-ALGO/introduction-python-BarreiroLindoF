@@ -13,4 +13,4 @@ print("Affichage du 4ème caractère du string : ", chaine[3])
 print("Affichage des 4 premières lettres du string : ", chaine[:4])
 print("Affichage d'une partie du string : ", chaine[5:8])
 
-print("test")
+print("testw2")
